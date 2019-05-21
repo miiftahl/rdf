@@ -1,0 +1,1698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+<rdf:Description rdf:about="http://localhost:3333/0">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173073</rdf:subject>
+	<rdfs:label>Islam Jakarta</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Cempaka Putih Tengah I / 1</address>
+	<rdfs:subClassOf>Cempaka Putih Timur</rdfs:subClassOf>
+	<rdfs:subClassOf>Cempaka Putih</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+	<rdf:value>10510</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/1">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173474</rdf:subject>
+	<rdfs:label>Pertamina Jaya</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Achmad Yani No. 2, By Pass</address>
+	<rdfs:subClassOf>Cempaka Putih Timur</rdfs:subClassOf>
+	<rdfs:subClassOf>Cempaka Putih</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/2">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173521</rdf:subject>
+	<rdfs:label>Tarakan</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum Daerah</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Kyai Caringin No. 7</address>
+	<rdfs:subClassOf>Cideng</rdfs:subClassOf>
+	<rdfs:subClassOf>Gambir</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+	<rdf:value>10150</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/3">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173656</rdf:subject>
+	<rdfs:label>Mitra Kemayoran</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Landas Pacu Timur</address>
+	<rdfs:subClassOf>Kebon Kosong</rdfs:subClassOf>
+	<rdfs:subClassOf>Kemayoran</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/4">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173063</rdf:subject>
+	<rdfs:label>PGI Cikini</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Raden Saleh No. 40 </address>
+	<rdfs:subClassOf>Cikini</rdfs:subClassOf>
+	<rdfs:subClassOf>Menteng</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/5">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3174543</rdf:subject>
+	<rdfs:label>Abdi Waluyo</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. HOS Cokroaminoto No. 31 - 33</address>
+	<rdfs:subClassOf>Gondangdia</rdfs:subClassOf>
+	<rdfs:subClassOf>Menteng</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/6">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173660</rdf:subject>
+	<rdfs:label>Menteng Mitra Afia</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Kali Pasir  No. 9</address>
+	<rdfs:subClassOf>Kebon Sirih</rdfs:subClassOf>
+	<rdfs:subClassOf>Menteng</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+	<rdf:value>10340</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/7">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173040</rdf:subject>
+	<rdfs:label>Husada </rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Raya Mangga Besar Raya 137 / 139</address>
+	<rdfs:subClassOf>Mangga Dua Selatan</rdfs:subClassOf>
+	<rdfs:subClassOf>Sawah Besar</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+	<rdf:value>10730</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/8">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173014</rdf:subject>
+	<rdfs:label>Dr. Cipto Mangunkusumo</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum Pusat Nasional</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Diponegoro No. 71</address>
+	<rdfs:subClassOf>Kenari</rdfs:subClassOf>
+	<rdfs:subClassOf>Senen</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+	<rdf:value>10430</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/9">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173084</rdf:subject>
+	<rdfs:label>Moh. Ridwan Meuraksa</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Kramat Raya No. 17 A</address>
+	<rdfs:subClassOf>Kenari</rdfs:subClassOf>
+	<rdfs:subClassOf>Senen</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/10">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173580</rdf:subject>
+	<rdfs:label>Kramat 128</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Kramat Raya No. 128</address>
+	<rdfs:subClassOf>Kramat</rdfs:subClassOf>
+	<rdfs:subClassOf>Senen</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+	<rdf:value>10430</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/11">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173051</rdf:subject>
+	<rdfs:label>PK. Sint Carolus </rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Salemba Raya No. 41</address>
+	<rdfs:subClassOf>Paseban</rdfs:subClassOf>
+	<rdfs:subClassOf>Senen</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/12">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173010</rdf:subject>
+	<rdfs:label>Moh. Husni Thamrin Internasional Salemba</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Salemba Tengah 26 - 28</address>
+	<rdfs:subClassOf>Paseban</rdfs:subClassOf>
+	<rdfs:subClassOf>Senen</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/13">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173025</rdf:subject>
+	<rdfs:label>Gatot Subroto</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum Pusat Angkatan Darat</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Dr. Abdul Rachman Saleh 24</address>
+	<rdfs:subClassOf>Senen</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/14">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173036</rdf:subject>
+	<rdfs:label>DR. Mintohardjo</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum Angkatan Laut</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Bendungan Hilir No. 17</address>
+	<rdfs:subClassOf>Bendungan Hilir</rdfs:subClassOf>
+	<rdfs:subClassOf>Tanah Abang</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+	<rdf:value>10210</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/15">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173441</rdf:subject>
+	<rdfs:label>Evasari</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Rawamangun No. 47</address>
+	<rdfs:subClassOf>Rawasari</rdfs:subClassOf>
+	<rdfs:subClassOf>Cempaka Putih</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+	<rdf:value>10570</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/16">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173105</rdf:subject>
+	<rdfs:label>Budi Kemuliaan </rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Bersalin</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Budi Kemuliaan No. 25 </address>
+	<rdfs:subClassOf>Gambir</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/17">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173612</rdf:subject>
+	<rdfs:label>Profesor Nizar </rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus THT</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Kesehatan No. 9</address>
+	<rdfs:subClassOf>Petojo Selatan</rdfs:subClassOf>
+	<rdfs:subClassOf>Gambir</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+	<rdf:value>10160</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/18">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173496</rdf:subject>
+	<rdfs:label>Dharma Sakti</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Gangguan Jiwa</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Kaji No. 40</address>
+	<rdfs:subClassOf>Petojo Utara</rdfs:subClassOf>
+	<rdfs:subClassOf>Gambir</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+	<rdf:value>10130</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/19">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173510</rdf:subject>
+	<rdfs:label>Panti Raharja</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus THT dan Bedah</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Sawo No. 58 - 60</address>
+	<rdfs:subClassOf>Menteng</rdfs:subClassOf>
+	<rdfs:subClassOf>Gondangdia</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/20">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173682</rdf:subject>
+	<rdfs:label>Berkat Ibu</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Sumur Batu Raya Blok A3 No. 13</address>
+	<rdfs:subClassOf>Sumur Batu</rdfs:subClassOf>
+	<rdfs:subClassOf>Kemayoran</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/21">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173116</rdf:subject>
+	<rdfs:label>YPK Mandiri</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Bersalin</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Gereja Theresia No. 22</address>
+	<rdfs:subClassOf>Gondangdia</rdfs:subClassOf>
+	<rdfs:subClassOf>Menteng</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/22">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173120</rdf:subject>
+	<rdfs:label>Bunda Jakarta</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Teuku Cik Ditiro No. 28</address>
+	<rdfs:subClassOf>Gondangdia</rdfs:subClassOf>
+	<rdfs:subClassOf>Menteng</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/23">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173634</rdf:subject>
+	<rdfs:label>Bina Estetika</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Bedah Plastik</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Teuku Cik Ditiro No. 41</address>
+	<rdfs:subClassOf>Menteng</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/24">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173623</rdf:subject>
+	<rdfs:label>Jakarta Eye Center</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Mata</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Teuku Cik Ditiro No. 46  M</address>
+	<rdfs:subClassOf>Menteng</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/25">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173532</rdf:subject>
+	<rdfs:label>Proklamasi</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus THT dan Bedah</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Proklamasi  No. 43 </address>
+	<rdfs:subClassOf>Pegangsaan</rdfs:subClassOf>
+	<rdfs:subClassOf>Menteng</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/26">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173695</rdf:subject>
+	<rdfs:label>Tambak</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Tambak No. 18</address>
+	<rdfs:subClassOf>Pegangsaan</rdfs:subClassOf>
+	<rdfs:subClassOf>Menteng</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/27">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3173671</rdf:subject>
+	<rdfs:label>FKG Universitas Indonesia</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Gigi &amp; Mulut</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Salemba Raya</address>
+	<rdfs:subClassOf>Kenari</rdfs:subClassOf>
+	<rdfs:subClassOf>Senen</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/28">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000001</rdf:subject>
+	<rdfs:label>Salemba Satu</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Bedah</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Salemba I  No. 13</address>
+	<rdfs:subClassOf>Paseban</rdfs:subClassOf>
+	<rdfs:subClassOf>Senen</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/29">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171768</rdf:subject>
+	<rdfs:label>Sahid Sahirman Memorial</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Bedah</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Jenderal Sudirman Kavling 86</address>
+	<rdfs:subClassOf>Karet Tengsin</rdfs:subClassOf>
+	<rdfs:subClassOf>Tanah Abang</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Pusat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/30">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3175326</rdf:subject>
+	<rdfs:label>Islam Jakarta Sukapura</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Tipar Cakung No. 5</address>
+	<rdfs:subClassOf>Sukapura</rdfs:subClassOf>
+	<rdfs:subClassOf>Cilincing</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+	<rdf:value>14140</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/31">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3175407</rdf:subject>
+	<rdfs:label>Gading Pluit</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Boulevard Timur Raya RT. 006 / 02</address>
+	<rdfs:subClassOf>Pegangsaan Dua</rdfs:subClassOf>
+	<rdfs:subClassOf>Kelapa Gading</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/32">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3175385</rdf:subject>
+	<rdfs:label>Mitra Keluarga Kelapa Gading</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Bukit Gading Raya Kav. II</address>
+	<rdfs:subClassOf>Kelapa Gading Barat</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/33">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3175016</rdf:subject>
+	<rdfs:label>Koja</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum Daerah</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Deli No. 4  Tanjung Priok</address>
+	<rdfs:subClassOf>Koja</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+	<rdf:value>14220</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/34">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3175042</rdf:subject>
+	<rdfs:label>Pelabuhan Jakarta</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Kramat Jaya, Tanjung Priok</address>
+	<rdfs:subClassOf>Tugu Utara</rdfs:subClassOf>
+	<rdfs:subClassOf>Koja</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+	<rdf:value>12460</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/35">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000002</rdf:subject>
+	<rdfs:label>Mulyasari</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Raya Plumpang Semper No. 19  RT.006 / RW.015</address>
+	<rdfs:subClassOf>Tugu Utara</rdfs:subClassOf>
+	<rdfs:subClassOf>Koja</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/36">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3175352</rdf:subject>
+	<rdfs:label>Pantai Indah Kapuk</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Pantai Indah Utara 3 Sek. Utr. Tmr Blok T</address>
+	<rdfs:subClassOf>Kapuk Muara</rdfs:subClassOf>
+	<rdfs:subClassOf>Penjaringan</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+	<rdf:value>14460</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/37">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3175031</rdf:subject>
+	<rdfs:label>Atma Jaya</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Pluit Raya No. 2</address>
+	<rdfs:subClassOf>Pejagalan</rdfs:subClassOf>
+	<rdfs:subClassOf>Penjaringan</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/38">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3175341</rdf:subject>
+	<rdfs:label>Pluit</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Raya Pluit Selatan No. 2</address>
+	<rdfs:subClassOf>Penjaringan</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/39">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3175374</rdf:subject>
+	<rdfs:label>Puri Medika</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl Sungai Bambu  No. 5</address>
+	<rdfs:subClassOf>Sungai Bambu</rdfs:subClassOf>
+	<rdfs:subClassOf>Tanjung Priok</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+	<rdf:value>14330</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/40">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3175315</rdf:subject>
+	<rdfs:label>Satya Negara</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Agung Utara Raya Blok A No. 1</address>
+	<rdfs:subClassOf>Sunter Permai</rdfs:subClassOf>
+	<rdfs:subClassOf>Tanjung Priok</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+	<rdf:value>14350</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/41">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3175330</rdf:subject>
+	<rdfs:label>Royal Progress</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Danau Sunter Utara Raya No. 1</address>
+	<rdfs:subClassOf>Sunter Podomoro</rdfs:subClassOf>
+	<rdfs:subClassOf>Tanjung Priok</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/42">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3175396</rdf:subject>
+	<rdfs:label>Port Medical Center</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Enggano No. 10</address>
+	<rdfs:subClassOf>Tanjung Priok</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/43">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3175181</rdf:subject>
+	<rdfs:label>Sukmul Sisma Medika</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Tawes No. 18-20 </address>
+	<rdfs:subClassOf>Tanjung Priok</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/44">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3175363</rdf:subject>
+	<rdfs:label>Family</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Pluit Mas I Blok A No. 2A - 5A</address>
+	<rdfs:subClassOf>Pejagalan</rdfs:subClassOf>
+	<rdfs:subClassOf>Penjaringan</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/45">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000003</rdf:subject>
+	<rdfs:label>Grand Family</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Mutiara Mediterania C/8 A, Jl. Raya Pluit Samudra I-A RT.0011 RW.05</address>
+	<rdfs:subClassOf>Pluit</rdfs:subClassOf>
+	<rdfs:subClassOf>Penjaringan</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/46">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3175064</rdf:subject>
+	<rdfs:label>PI. Prof.Sulianti Saroso</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Infeksi</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Baru Sunter Permai Raya</address>
+	<rdfs:subClassOf>Papanggo</rdfs:subClassOf>
+	<rdfs:subClassOf>Tanjung Priok</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/47">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000004</rdf:subject>
+	<rdfs:label>Santo Susuf</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Bersalin</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Ganggeng Raya No.9</address>
+	<rdfs:subClassOf>Sungai Bambu</rdfs:subClassOf>
+	<rdfs:subClassOf>Tanjung Priok</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/48">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000005</rdf:subject>
+	<rdfs:label>Firdaus</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Paru</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Siak J-5 No. 14</address>
+	<rdfs:subClassOf>Sukapura</rdfs:subClassOf>
+	<rdfs:subClassOf>Cilincing</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/49">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3175304</rdf:subject>
+	<rdfs:label>Hermina Podomoro</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Danau Agung 2 Blok E 3 No. 28-30</address>
+	<rdfs:subClassOf>Sunter Agung</rdfs:subClassOf>
+	<rdfs:subClassOf>Tanjung Priok</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Utara</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/50">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3174074</rdf:subject>
+	<rdfs:label>Cengkareng</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum Daerah</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Kamal Raya, Bumi Cengkareng Indah</address>
+	<rdfs:subClassOf>Cengkareng Timur</rdfs:subClassOf>
+	<rdfs:subClassOf>Cengkareng</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+	<rdf:value>11730</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/51">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3174416</rdf:subject>
+	<rdfs:label>Patria IKKT</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Cendrawasih No.1 Komp. Dep. Han, Mabes TNI  Slipi</address>
+	<rdfs:subClassOf>Palmerah</rdfs:subClassOf>
+	<rdfs:subClassOf>Grogol Petamburan</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/52">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3174486</rdf:subject>
+	<rdfs:label>Royal Taruma</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Daan Mogot No. 34</address>
+	<rdfs:subClassOf>Tanjung Duren Utara</rdfs:subClassOf>
+	<rdfs:subClassOf>Grogol Petamburan</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+	<rdf:value>11470</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/53">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3174015</rdf:subject>
+	<rdfs:label>Sumber Waras </rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Kyai Tapa No. 1</address>
+	<rdfs:subClassOf>Tomang</rdfs:subClassOf>
+	<rdfs:subClassOf>Grogol Petamburan</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+	<rdf:value>11440</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/54">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3174431</rdf:subject>
+	<rdfs:label>Hermina Daan Mogot</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Kintamani Raya No. 2, Kawasan Daan Mogot Baru</address>
+	<rdfs:subClassOf>Kalideres</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/55">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3174351</rdf:subject>
+	<rdfs:label>Siloam Hospitals Kebon Jeruk/Siloam Graha Medika</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Raya Pejuangan Kav. 8</address>
+	<rdfs:subClassOf>Kebun Jeruk</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+	<rdf:value>11530</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/56">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3174475</rdf:subject>
+	<rdfs:label>Puri Mandiri Kedoya</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Kedoya Raya / Al-Kamal No. 2</address>
+	<rdfs:subClassOf>Kedoya Selatan</rdfs:subClassOf>
+	<rdfs:subClassOf>Kebun Jeruk</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/57">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000006</rdf:subject>
+	<rdfs:label>Grha Kedoya</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Panjang Arteri 26</address>
+	<rdfs:subClassOf>Kedoya Utara</rdfs:subClassOf>
+	<rdfs:subClassOf>Kebon Jeruk</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+	<rdf:value>11520</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/58">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3174420</rdf:subject>
+	<rdfs:label>Medika Permata Hijau</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Raya Kebayoran Lama No. 64 </address>
+	<rdfs:subClassOf>Sukabumi Selatan</rdfs:subClassOf>
+	<rdfs:subClassOf>Kebun Jeruk</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+	<rdf:value>11560</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/59">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3174508</rdf:subject>
+	<rdfs:label>Puri Indah</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Puri Indah Raya  Blok S-2</address>
+	<rdfs:subClassOf>Kembangan Selatan</rdfs:subClassOf>
+	<rdfs:subClassOf>Kembangan</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/60">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3174026</rdf:subject>
+	<rdfs:label>Pelni Petamburan</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Aip II K. S. Tubun No. 92-94</address>
+	<rdfs:subClassOf>Slipi</rdfs:subClassOf>
+	<rdfs:subClassOf>Pal Merah</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/61">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3174030</rdf:subject>
+	<rdfs:label>Bhakti Mulia</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Aipda K. S. Tubun No. 79</address>
+	<rdfs:subClassOf>Slipi - Petamburan</rdfs:subClassOf>
+	<rdfs:subClassOf>Pal Merah</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/62">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3174453</rdf:subject>
+	<rdfs:label>Cinta Kasih Tzu Chi</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Bedah</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Raya kamal Outer Ring Road</address>
+	<rdfs:subClassOf>Cengkareng Timur</rdfs:subClassOf>
+	<rdfs:subClassOf>Cengkareng</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/63">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3174041</rdf:subject>
+	<rdfs:label>Dr.Soeharto Heerdjan</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Jiwa</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Prof. Dr. Latumeten No. 1</address>
+	<rdfs:subClassOf>Jelambar</rdfs:subClassOf>
+	<rdfs:subClassOf>Grogol Petamburan</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/64">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3174497</rdf:subject>
+	<rdfs:label>Bina Sehat Mandiri</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Duri Raya No. 22</address>
+	<rdfs:subClassOf>Kepa Duri</rdfs:subClassOf>
+	<rdfs:subClassOf>Kedoya</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+	<rdf:value>11510</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/65">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3174063</rdf:subject>
+	<rdfs:label>Dharmais</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Kanker</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Letjen S. Parman Kav. 84-86</address>
+	<rdfs:subClassOf>Kota Bambu Selatan</rdfs:subClassOf>
+	<rdfs:subClassOf>Pal Merah</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/66">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3174260</rdf:subject>
+	<rdfs:label>Harapan Kita</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Anak dan Bunda</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. LetJen S. Parman Kav. 87, Slipi</address>
+	<rdfs:subClassOf>Kota Bambu Utara</rdfs:subClassOf>
+	<rdfs:subClassOf>Pal Merah</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+	<rdf:value>11420</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/67">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3174282</rdf:subject>
+	<rdfs:label>Harapan Kita </rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">RS Khusus Jantung dan Pembuluh Darah</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. LetJen S. Parman Kav. 87</address>
+	<rdfs:subClassOf>Kota Bambu Utara</rdfs:subClassOf>
+	<rdfs:subClassOf>Pal Merah</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/68">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000007</rdf:subject>
+	<rdfs:label>Aries</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Tanah Sereal VII / 9</address>
+	<rdfs:subClassOf>Tanah Sereal</rdfs:subClassOf>
+	<rdfs:subClassOf>Tambora</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/69">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3174442</rdf:subject>
+	<rdfs:label>FKG Universitas Trisakti</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Gigi &amp; Mulut</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Kyai Tapa No. </address>
+	<rdfs:subClassOf>Tomang</rdfs:subClassOf>
+	<rdfs:subClassOf>Grogol Petamburan</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/70">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000008</rdf:subject>
+	<rdfs:label>Anggrek Mas</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Bersalin</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Anggrek No. 2 B</address>
+	<rdfs:subClassOf>Kelapa Dua</rdfs:subClassOf>
+	<rdfs:subClassOf>Kebon Jeruk</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Barat</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/71">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000009</rdf:subject>
+	<rdfs:label>Jakarta Eye Center Kedoya</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Mata</jenis_rs>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/72">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000010</rdf:subject>
+	<rdfs:label>BAN Jakarta Selatan </rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Pesanggrahan No. 1</address>
+	<rdfs:subClassOf>Bintaro</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/73">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171450</rdf:subject>
+	<rdfs:label>Setia Mitra</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. RS Fatmawati No. 80 - 82</address>
+	<rdfs:subClassOf>Cilandak Barat</rdfs:subClassOf>
+	<rdfs:subClassOf>Cilandak</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/74">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171012</rdf:subject>
+	<rdfs:label>Fatmawati </rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum Pusat</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. RS. Fatmawati</address>
+	<rdfs:subClassOf>Cilandak Barat</rdfs:subClassOf>
+	<rdfs:subClassOf>Cilandak</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+	<rdf:value>12430</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/75">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000011</rdf:subject>
+	<rdfs:label>Mayapada</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Lebak Bulus 1</address>
+	<rdfs:subClassOf>Lebak Bulus</rdfs:subClassOf>
+	<rdfs:subClassOf>Cilandak</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/76">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171574</rdf:subject>
+	<rdfs:label>Prikasih</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. RS Fatmawati No. 74 </address>
+	<rdfs:subClassOf>Pondok Labu</rdfs:subClassOf>
+	<rdfs:subClassOf>Cilandak</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+	<rdf:value>12450</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/77">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000012</rdf:subject>
+	<rdfs:label>Ali Sibroh Malisi</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Warung Silah No. 1</address>
+	<rdfs:subClassOf>Cipedak</rdfs:subClassOf>
+	<rdfs:subClassOf>Jagakarsa</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/78">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171702</rdf:subject>
+	<rdfs:label>Zahirah</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Sirsak No. 21</address>
+	<rdfs:subClassOf>Jagakarsa</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/79">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000013</rdf:subject>
+	<rdfs:label>Muhammadiyah Jakarta</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<rdfs:subClassOf>Jagakarsa</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/80">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171023</rdf:subject>
+	<rdfs:label>Pusat Pertamina </rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Kyai Maja No. 43</address>
+	<rdfs:subClassOf>Gunung</rdfs:subClassOf>
+	<rdfs:subClassOf>Kebayoran Baru</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+	<rdf:value>12120</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/81">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171781</rdf:subject>
+	<rdfs:label>Muhammadiyah Taman Puring</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Gandaria I / 20</address>
+	<rdfs:subClassOf>Kebayoran Baru</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/82">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171621</rdf:subject>
+	<rdfs:label>Gandaria</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Gandaria Tengah II No. 6 - 14</address>
+	<rdfs:subClassOf>Kramat Pela</rdfs:subClassOf>
+	<rdfs:subClassOf>Kebayoran Baru</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/83">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171504</rdf:subject>
+	<rdfs:label>Pondok Indah Jakarta Selatan</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Metro Duta Kav. UE,  Pondok Indah</address>
+	<rdfs:subClassOf>Pondok Pinang</rdfs:subClassOf>
+	<rdfs:subClassOf>Kebayoran Lama</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+	<rdf:value>12310</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/84">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000014</rdf:subject>
+	<rdfs:label>Bhayangkara Selapa Polri</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Ciputat Raya No. 40</address>
+	<rdfs:subClassOf>Kebayoran Lama</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/85">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171735</rdf:subject>
+	<rdfs:label>Jakarta Medical Center</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Warung Buncit Raya No. 15</address>
+	<rdfs:subClassOf>Kalibata</rdfs:subClassOf>
+	<rdfs:subClassOf>Pancoran</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/86">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171034</rdf:subject>
+	<rdfs:label>Rumkital Marinir Cilandak</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Raya Cilandak  KKO</address>
+	<rdfs:subClassOf>Cilandak Timur</rdfs:subClassOf>
+	<rdfs:subClassOf>Pasar Minggu</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+	<rdf:value>12560</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/87">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171643</rdf:subject>
+	<rdfs:label>Siaga Raya</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Siaga Raya Kav. 4 - 8</address>
+	<rdfs:subClassOf>Pejaten Barat</rdfs:subClassOf>
+	<rdfs:subClassOf>Pasar Minggu </rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/88">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000015</rdf:subject>
+	<rdfs:label>Dr. Suyoto</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. R. C. Veteran No. 178</address>
+	<rdfs:subClassOf>Bintaro</rdfs:subClassOf>
+	<rdfs:subClassOf>Pesanggrahan</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/89">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171515</rdf:subject>
+	<rdfs:label>Metropolitan Medical Center</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. HR. Rasuna Said Kav. C-21 Kuningan</address>
+	<rdfs:subClassOf>Karet Kuningan</rdfs:subClassOf>
+	<rdfs:subClassOf>Setiabudi</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/90">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171045</rdf:subject>
+	<rdfs:label>Jakarta</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Jend. Sudirman Kav. 49 </address>
+	<rdfs:subClassOf>Karet Semanggi</rdfs:subClassOf>
+	<rdfs:subClassOf>Setiabudi</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+	<rdf:value>12930</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/91">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171665</rdf:subject>
+	<rdfs:label>Medistra</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Jenderal Gatot Subroto Kav. 59</address>
+	<rdfs:subClassOf>Kuningan Timur</rdfs:subClassOf>
+	<rdfs:subClassOf>Setiabudi</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/92">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171632</rdf:subject>
+	<rdfs:label>Agung</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Sultan Agung No. 67</address>
+	<rdfs:subClassOf>Pasar Manggis</rdfs:subClassOf>
+	<rdfs:subClassOf>Setiabudi</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/93">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171461</rdf:subject>
+	<rdfs:label>Tebet</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. MT. Haryono No. 8</address>
+	<rdfs:subClassOf>Pancoran</rdfs:subClassOf>
+	<rdfs:subClassOf>Tebet</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/94">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171680</rdf:subject>
+	<rdfs:label>Tria Dipa</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Raya Pasar Minggu No. 3 A</address>
+	<rdfs:subClassOf>Pancoran</rdfs:subClassOf>
+	<rdfs:subClassOf>Tebet</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/95">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000016</rdf:subject>
+	<rdfs:label>Andhika</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Warung Sila No.8 RT.006 / RW.04 Gudang Baru</address>
+	<rdfs:subClassOf>Ciganjur</rdfs:subClassOf>
+	<rdfs:subClassOf>Jagakarsa</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/96">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000017</rdf:subject>
+	<rdfs:label>Manazeli</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Mohamad Kahfi Raya 1</address>
+	<rdfs:subClassOf>Cipedak</rdfs:subClassOf>
+	<rdfs:subClassOf>Jagakarsa</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/97">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171746</rdf:subject>
+	<rdfs:label>Aulia</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Jeruk Raya No. 15 RT. 0011 / RW. 01</address>
+	<rdfs:subClassOf>Jagakarsa</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+	<rdf:value>12620</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/98">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000018</rdf:subject>
+	<rdfs:label>Sofa Marwa</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Bersalin</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Bina Warga RT. 009 / RW. 07, Kalibata</address>
+	<rdfs:subClassOf>Srengseng Sawah</rdfs:subClassOf>
+	<rdfs:subClassOf>Jagakarsa</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/99">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171724</rdf:subject>
+	<rdfs:label>Brawijaya</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Taman Brawijaya No. 1</address>
+	<rdfs:subClassOf>Cipete Utara</rdfs:subClassOf>
+	<rdfs:subClassOf>Kebayoran Baru</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/100">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171413</rdf:subject>
+	<rdfs:label>Asih</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Bersalin</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Panglima Polim I  No. 34</address>
+	<rdfs:subClassOf>Melawai </rdfs:subClassOf>
+	<rdfs:subClassOf>Kebayoran Baru</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+	<rdf:value>12160</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/101">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171060</rdf:subject>
+	<rdfs:label>Dharmawangsa </rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Jiwa</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Dharmawangsa Raya No. 13  Blok P II</address>
+	<rdfs:subClassOf>Pulo</rdfs:subClassOf>
+	<rdfs:subClassOf>Kebayoran Baru</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+	<rdf:value>12160</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/102">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171552</rdf:subject>
+	<rdfs:label>Yurino Ciranjang</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus THT dan Bedah</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Ciranjang  II No. 20-22</address>
+	<rdfs:subClassOf>Rawa Barat</rdfs:subClassOf>
+	<rdfs:subClassOf>Kebayoran Baru</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/103">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171216</rdf:subject>
+	<rdfs:label>Panti Nugeraha</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Bersalin</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Senayan No. 26</address>
+	<rdfs:subClassOf>Rawa Barat</rdfs:subClassOf>
+	<rdfs:subClassOf>Kebayoran Baru</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/104">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171713</rdf:subject>
+	<rdfs:label>Kartini</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Bersalin</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Ciledug Raya No. 94 - 96</address>
+	<rdfs:subClassOf>Cipulir</rdfs:subClassOf>
+	<rdfs:subClassOf>Kebayoran Lama</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/105">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000019</rdf:subject>
+	<rdfs:label>Yadika Kebayoran Lama</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Ciputat Raya No. 5</address>
+	<rdfs:subClassOf>Kebayoran Lama Selatan</rdfs:subClassOf>
+	<rdfs:subClassOf>Kebayoran Lama</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/106">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000020</rdf:subject>
+	<rdfs:label>ASRI</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Bedah</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Duren Tiga Raya No. 20</address>
+	<rdfs:subClassOf>Duren Tiga</rdfs:subClassOf>
+	<rdfs:subClassOf>Pancoran</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/107">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171757</rdf:subject>
+	<rdfs:label>Duren Tiga</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Bersalin</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Duren Tiga Raya No. 5</address>
+	<rdfs:subClassOf>Pancoran</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/108">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000021</rdf:subject>
+	<rdfs:label>Avisena</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Bersalin</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. H. Rohimin No. 30</address>
+	<rdfs:subClassOf>Ulujami</rdfs:subClassOf>
+	<rdfs:subClassOf>Pesanggrahan</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+	<rdf:value>12250</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/109">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000022</rdf:subject>
+	<rdfs:label>Kemang</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Ampera Raya No. 34</address>
+	<rdfs:subClassOf>Ragunan</rdfs:subClassOf>
+	<rdfs:subClassOf>Pasar Minggu</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/110">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000023</rdf:subject>
+	<rdfs:label>Siloam Semanggi</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Kanker</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Garnisun No. 2 - 3</address>
+	<rdfs:subClassOf>Karet Semanggi</rdfs:subClassOf>
+	<rdfs:subClassOf>Setiabudi</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/111">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171424</rdf:subject>
+	<rdfs:label>Prof.DR.Isak Salim "Aini"</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Mata</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. HR. Rasuna Said, Kuningan</address>
+	<rdfs:subClassOf>Karet Setiabudi</rdfs:subClassOf>
+	<rdfs:subClassOf>Setiabudi</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/112">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171286</rdf:subject>
+	<rdfs:label>Budhi Jaya</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Dr. Saharjo No. 120</address>
+	<rdfs:subClassOf>Menteng Atas</rdfs:subClassOf>
+	<rdfs:subClassOf>Setiabudi</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+	<rdf:value>12960</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/113">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171691</rdf:subject>
+	<rdfs:label>FKG Univ.Prof.DR.Moestopo</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Gigi &amp; Mulut</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Bintaro Permai Raya No. 3</address>
+	<rdfs:subClassOf>Jakarta Selatan</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/114">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172531</rdf:subject>
+	<rdfs:label>Harapan Jayakarta </rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Bekasi Timur Raya KM. 18 No. 6 P. Gdg. </address>
+	<rdfs:subClassOf>Jatinegara</rdfs:subClassOf>
+	<rdfs:subClassOf>Cakung</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/115">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172553</rdf:subject>
+	<rdfs:label>Harapan Bunda</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Raya Bogor KM. 22 No. 44</address>
+	<rdfs:subClassOf>Rambutan</rdfs:subClassOf>
+	<rdfs:subClassOf>Ciracas</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/116">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172590</rdf:subject>
+	<rdfs:label>Yadika Pondok Bambu</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Pahlawan Revolusi No. 47</address>
+	<rdfs:subClassOf>Pondok Bambu</rdfs:subClassOf>
+	<rdfs:subClassOf>Duren Sawit</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/117">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172505</rdf:subject>
+	<rdfs:label>Islam Jakarta Pondok Kopi</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Raya Pondok Kopi</address>
+	<rdfs:subClassOf>Pondok Kopi</rdfs:subClassOf>
+	<rdfs:subClassOf>Duren Sawit</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+	<rdf:value>13460</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/118">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>510200</rdf:subject>
+	<rdfs:label>Tk.IV Cijantung Kesdam Jaya</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Mahoni, Pasar Rebo, Cijantung II </address>
+	<rdfs:subClassOf>Gedong</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/119">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172035</rdf:subject>
+	<rdfs:label>Pengayoman Cipinang</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Raya Bekasi Timur 170 C</address>
+	<rdfs:subClassOf>Cipinang Besar Utara</rdfs:subClassOf>
+	<rdfs:subClassOf>Jatinegara</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/120">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172206</rdf:subject>
+	<rdfs:label>Premier Jatinegara</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Raya Jatinegara Timur No. 85 - 87</address>
+	<rdfs:subClassOf>Rawa Bunga</rdfs:subClassOf>
+	<rdfs:subClassOf>Jatinegara</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+	<rdf:value>13310</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/121">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172061</rdf:subject>
+	<rdfs:label>Pusat Angkatan Udara Dr. Esnawan Antariksa</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Merpati No. 2</address>
+	<rdfs:subClassOf>Halim Perdanakusuma</rdfs:subClassOf>
+	<rdfs:subClassOf>Kampung Makasar</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/122">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172024</rdf:subject>
+	<rdfs:label>Budhi Asih </rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum Daerah</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Dewi Sartika III No. 200</address>
+	<rdfs:subClassOf>Cawang</rdfs:subClassOf>
+	<rdfs:subClassOf>Kramat Jati</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/123">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3170505</rdf:subject>
+	<rdfs:label>TK.III DIK PUSDIKKES KADIKLATAD</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Raya Bogor</address>
+	<rdfs:subClassOf>Kramat Jati</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/124">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3272072</rdf:subject>
+	<rdfs:label>Bhayangkara Tk.I  R. Said Sukanto</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. RS Polri</address>
+	<rdfs:subClassOf>Kramat Jati</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+	<rdf:value>13510</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/125">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172094</rdf:subject>
+	<rdfs:label>Universitas Kristen Indonesia</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Mayjen Sutoyo No. 2</address>
+	<rdfs:subClassOf>Cawang</rdfs:subClassOf>
+	<rdfs:subClassOf>Makasar</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+	<rdf:value>13630</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/126">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172520</rdf:subject>
+	<rdfs:label>Harum Sisma Medika</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Tarum Barat - Kalimalang</address>
+	<rdfs:subClassOf>Cipinang Melayu</rdfs:subClassOf>
+	<rdfs:subClassOf>Makasar</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+	<rdf:value>13620</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/127">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172724</rdf:subject>
+	<rdfs:label>Haji Jakarta</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Raya Pondok Gede No. 4</address>
+	<rdfs:subClassOf>Pinang Ranti</rdfs:subClassOf>
+	<rdfs:subClassOf>Makasar</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/128">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172126</rdf:subject>
+	<rdfs:label>Pasar Rebo</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum Daerah</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Letjen T. B. Simatupang No. 30</address>
+	<rdfs:subClassOf>Gedong</rdfs:subClassOf>
+	<rdfs:subClassOf>Pasar Rebo</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+	<rdf:value>13760</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/129">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000024</rdf:subject>
+	<rdfs:label>Pemuda</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Pemuda</address>
+	<rdfs:subClassOf>Jatinegara Kaum</rdfs:subClassOf>
+	<rdfs:subClassOf>Pulogadung</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/130">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000025</rdf:subject>
+	<rdfs:label>Pulomas</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Kayu Putih Raya</address>
+	<rdfs:subClassOf>Kayu Putih</rdfs:subClassOf>
+	<rdfs:subClassOf>Pulogadung</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/131">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172495</rdf:subject>
+	<rdfs:label>Omni Internasional Pulomas</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Pulomas Barat VI No. 20</address>
+	<rdfs:subClassOf>Kayu Putih</rdfs:subClassOf>
+	<rdfs:subClassOf>Pulogadung</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/132">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172516</rdf:subject>
+	<rdfs:label>Kartika Pulomas </rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Pulomas Timur K. No.2</address>
+	<rdfs:subClassOf>Kayu Putih</rdfs:subClassOf>
+	<rdfs:subClassOf>Pulogadung</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/133">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172013</rdf:subject>
+	<rdfs:label>Persahabatan </rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Persahabatan Raya </address>
+	<rdfs:subClassOf>Pisangan Timur</rdfs:subClassOf>
+	<rdfs:subClassOf>Pulogadung</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/134">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172713</rdf:subject>
+	<rdfs:label>Mediros</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Perintis Kemerdekaan Kav. 149</address>
+	<rdfs:subClassOf>Pulogadung</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/135">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172702</rdf:subject>
+	<rdfs:label>Dharma Nugraha</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Balai Pustaka Baru No. 19</address>
+	<rdfs:subClassOf>Rawamangun</rdfs:subClassOf>
+	<rdfs:subClassOf>Pulogadung</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/136">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000026</rdf:subject>
+	<rdfs:label>Resti Mulya</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Pahlawan Komarudin Raya No. 5</address>
+	<rdfs:subClassOf>Penggilingan</rdfs:subClassOf>
+	<rdfs:subClassOf>Cakung</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/137">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3171435</rdf:subject>
+	<rdfs:label>Ketergantungan Obat</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Ketergantungan Obat</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. LapanganTembak No. 75</address>
+	<rdfs:subClassOf>Cibubur</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/138">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000027</rdf:subject>
+	<rdfs:label>Duren Sawit</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Jiwa</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Duren Sawit Baru No. 2</address>
+	<rdfs:subClassOf>Duren Sawit</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+	<rdf:value>13440</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/139">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000028</rdf:subject>
+	<rdfs:label>Sekar</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Raden Inten</address>
+	<rdfs:subClassOf>Duren Sawit</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/140">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172735</rdf:subject>
+	<rdfs:label>Islam Klender Jakarta</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Jiwa</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Bunga Rampai X - Perumnas Klender</address>
+	<rdfs:subClassOf>Malaka Jaya</rdfs:subClassOf>
+	<rdfs:subClassOf>Duren Sawit</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/141">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000029</rdf:subject>
+	<rdfs:label>Bunda Aliyah</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Pahlawan Revolusi No. 100</address>
+	<rdfs:subClassOf>Pondok Bambu</rdfs:subClassOf>
+	<rdfs:subClassOf>Duren Sawit</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/142">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000030</rdf:subject>
+	<rdfs:label>SamMarie Basra</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Basuki Rachmat  No. 31</address>
+	<rdfs:subClassOf>Pondok Bambu</rdfs:subClassOf>
+	<rdfs:subClassOf>Duren Sawit</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+	<rdf:value>13430</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/143">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172137</rdf:subject>
+	<rdfs:label>Sayyidah</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Taman Malaka Selatan No. 6</address>
+	<rdfs:subClassOf>Pondok Kelapa</rdfs:subClassOf>
+	<rdfs:subClassOf>Duren Sawit</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+	<rdf:value>13450</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/144">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172243</rdf:subject>
+	<rdfs:label>Hermina Jatinegara</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Jatinegara Barat No. 126 </address>
+	<rdfs:subClassOf>Kampung Melayu</rdfs:subClassOf>
+	<rdfs:subClassOf>Jatinegara</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/145">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000031</rdf:subject>
+	<rdfs:label>Asta Nugraha</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Bersalin</jenis_rs>
+	<address xmlns="http://localhost:3333/">JL. Duren Sawit Raya Blok K.3 No.1</address>
+	<rdfs:subClassOf>Klender</rdfs:subClassOf>
+	<rdfs:subClassOf>Duren Sawit</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+	<rdf:value>13470</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/146">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172666</rdf:subject>
+	<rdfs:label>Restu </rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Ibu dan Anak</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Raya Bogor  Km. 19  No. 3.a</address>
+	<rdfs:subClassOf>Kramat Jati</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/147">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000032</rdf:subject>
+	<rdfs:label>Bina Waluya</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Jantung</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. TB Simatupang No. 71 Jak-Tim</address>
+	<rdfs:subClassOf>Gedong</rdfs:subClassOf>
+	<rdfs:subClassOf>Pasar Rebo</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/148">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000033</rdf:subject>
+	<rdfs:label>Jakarta</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">RS Khusus Orthopaedi &amp; Traumatologi</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. H. Ten</address>
+	<rdfs:subClassOf>Kayu Putih</rdfs:subClassOf>
+	<rdfs:subClassOf>Pulogadung</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/149">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>3172301</rdf:subject>
+	<rdfs:label>Rawamangun</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Khusus Bedah</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Balai Pustaka Raya No. 29-31</address>
+	<rdfs:subClassOf>Rawamangun</rdfs:subClassOf>
+	<rdfs:subClassOf>Pulogadung</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/150">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000034</rdf:subject>
+	<rdfs:label>Alvernia Agusta</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Bersalin</jenis_rs>
+	<address xmlns="http://localhost:3333/">Jl. Pemuda No. 80  RT.001 RW.08</address>
+	<rdfs:subClassOf>Jati</rdfs:subClassOf>
+	<rdfs:subClassOf>Pulogadung</rdfs:subClassOf>
+	<rdfs:subClassOf>Jakarta Timur</rdfs:subClassOf>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/151">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000035</rdf:subject>
+	<rdfs:label>Matraman</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Jantung</jenis_rs>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:3333/152">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdf:subject>1000036</rdf:subject>
+	<rdfs:label>Kepulauan Seribu</rdfs:label>
+	<jenis_rs xmlns="http://localhost:3333/">Rumah Sakit Umum Daerah</jenis_rs>
+	<address xmlns="http://localhost:3333/">Pulau Pramuka</address>
+	<rdfs:subClassOf>Pulau Panggang</rdfs:subClassOf>
+	<rdfs:subClassOf>Kepulauan Seribu Utara</rdfs:subClassOf>
+	<rdfs:subClassOf>Kepulauan Seribu</rdfs:subClassOf>
+</rdf:Description>
+
+</rdf:RDF>
