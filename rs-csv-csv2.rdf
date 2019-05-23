@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rs="http://rs.com/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:gn="http://www.geonames.org/ontology#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+	<rs:primary rdf:about="https://dl.getdropbox.com/s/stx2mt5hahykp0w/rs-csv-csv2.rdf">
+		<rs:primaryTopic>Jakarta</rs:primaryTopic>
+		<gn:name>jakarta</gn:name>
+		<owl:hasValue>91,59</owl:hasValue>
+	</rs:primary>
+
+	<rs:resources>
+		<rs:provinsi>Jakarta</rs:provinsi>
+		<gn:name>jakarta</gn:name>
+		<owl:hasValue>91,59</owl:hasValue>
+
+		<rs:thing>
+			<rdf:Description rdf:about="http://rs.com/0">
+			<gn:name>Jakarta Utara</gn:name>
+			<gn:name>Tanjung Priok</gn:name>
+			<owl:hasValue>127686</owl:hasValue>
+			<vcard:hasUID>3175374</vcard:hasUID>
+			<vcard:organization-name>Puri Medika</vcard:organization-name>
+			<rs:jenis>Rumah Sakit Umum</rs:jenis>
+			<vcard:hasAddress>Jl Sungai Bambu  No. 5</vcard:hasAddress>
+			<vcard:hasTelephone>021 43903388</vcard:hasTelephone>
+			<foaf:weblog>www.purimdika.com</foaf:weblog>
+			<vcard:hasEmail>purmed-medcen@centrin.net.id</vcard:hasEmail>
+			<rs:akreditasi>C</rs:akreditasi>
+			<rs:pemilik>Swasta/Lainnya</rs:pemilik>
+			<rs:berlakuakreditasi>26 Mar 2022</rs:berlakuakreditasi>
+			<rs:tingkatakreditasi>Tingkat Madya</rs:tingkatakreditasi>
+			<rs:tglakreditasi>30-04-19</rs:tglakreditasi>
+			</rdf:Description>
+		</rs:thing>
+
+		<rs:thing>
+			<rdf:Description rdf:about="http://rs.com/1">
+			<gn:name>Jakarta Utara</gn:name>
+			<gn:name>Tanjung Priok</gn:name>
+			<owl:hasValue>127686</owl:hasValue>
+			<vcard:hasUID>3175315</vcard:hasUID>
+			<vcard:organization-name>Satya Negara</vcard:organization-name>
+			<rs:jenis>Rumah Sakit Umum</rs:jenis>
+			<vcard:hasAddress>Jl. Agung Utara Raya Blok A No. 1</vcard:hasAddress>
+			<vcard:hasTelephone>021 687813, 021 64717813</vcard:hasTelephone>
+			<foaf:weblog>www.rssatyanegara.com</foaf:weblog>
+			<vcard:hasEmail>rssn@cbn.net.id</vcard:hasEmail>
+			<vcard:hasTelephone>021 65836583 ext. 121</vcard:hasTelephone>
+			</rdf:Description>
+		</rs:thing>
+
+		<rs:thing>
+			<rdf:Description rdf:about="http://rs.com/2">
+			<gn:name>Jakarta Utara</gn:name>
+			<gn:name>Tanjung Priok</gn:name>
+			<owl:hasValue>127686</owl:hasValue>
+			<vcard:hasUID>3175330</vcard:hasUID>
+			<vcard:organization-name>Royal Progress</vcard:organization-name>
+			<rs:jenis>Rumah Sakit Umum</rs:jenis>
+			<vcard:hasAddress>Jl. Danau Sunter Utara Raya No. 1</vcard:hasAddress>
+			<vcard:hasTelephone>021 6400778</vcard:hasTelephone>
+			</rdf:Description>
+		</rs:thing>
+
+		<rs:thing>
+			<rdf:Description rdf:about="http://rs.com/3">
+			<gn:name>Jakarta Utara</gn:name>
+			<gn:name>Tanjung Priok</gn:name>
+			<owl:hasValue>127686</owl:hasValue>
+			<vcard:hasUID>3175396</vcard:hasUID>
+			<vcard:organization-name>Port Medical Center</vcard:organization-name>
+			<rs:jenis>Rumah Sakit Umum</rs:jenis>
+			<vcard:hasAddress>Jl. Enggano No. 10</vcard:hasAddress>
+			<vcard:hasTelephone>021 43902302</vcard:hasTelephone>
+			<rs:akreditasi>C</rs:akreditasi>
+			<rs:pemilik>Swasta/Lainnya</rs:pemilik>
+			<rs:berlakuakreditasi>19 Dec 2019</rs:berlakuakreditasi>
+			<rs:tingkatakreditasi>Lulus Perdana</rs:tingkatakreditasi>
+			<rs:tglakreditasi>25-12-16</rs:tglakreditasi>
+			</rdf:Description>
+		</rs:thing>
+
+		<rs:thing>
+			<rdf:Description rdf:about="http://rs.com/4">
+			<gn:name>Jakarta Utara</gn:name>
+			<gn:name>Tanjung Priok</gn:name>
+			<owl:hasValue>127686</owl:hasValue>
+			<vcard:hasUID>3175181</vcard:hasUID>
+			<vcard:organization-name>Sukmul Sisma Medika</vcard:organization-name>
+			<rs:jenis>Rumah Sakit Umum</rs:jenis>
+			<vcard:hasAddress>Jl. Tawes No. 18-20 </vcard:hasAddress>
+			<vcard:hasTelephone>021 4301272</vcard:hasTelephone>
+			<vcard:hasEmail>Sukmul@indosat.net.id</vcard:hasEmail>
+			<rs:akreditasi>C</rs:akreditasi>
+			<rs:pemilik>Swasta/Lainnya</rs:pemilik>
+			<rs:berlakuakreditasi>18 Dec 2021</rs:berlakuakreditasi>
+			<rs:tingkatakreditasi>Lulus Perdana</rs:tingkatakreditasi>
+			<rs:tglakreditasi>03-01-19</rs:tglakreditasi>
+			</rdf:Description>
+		</rs:thing>
+
+		<rs:thing>
+			<rdf:Description rdf:about="http://rs.com/5">
+			<gn:name>Jakarta Utara</gn:name>
+			<gn:name>Tanjung Priok</gn:name>
+			<owl:hasValue>127686</owl:hasValue>
+			<vcard:hasUID>3175064</vcard:hasUID>
+			<vcard:organization-name>PI. Prof.Sulianti Saroso</vcard:organization-name>
+			<rs:jenis>Rumah Sakit Khusus Infeksi</rs:jenis>
+			<vcard:hasAddress>Jl. Baru Sunter Permai Raya</vcard:hasAddress>
+			<vcard:hasTelephone>021 6401411</vcard:hasTelephone>
+			<rs:akreditasi>A</rs:akreditasi>
+			<rs:pemilik>Kemkes</rs:pemilik>
+			<rs:berlakuakreditasi>21 Nov 2019</rs:berlakuakreditasi>
+			<rs:tingkatakreditasi>Tingkat Paripurna</rs:tingkatakreditasi>
+			<rs:tglakreditasi>08-04-17</rs:tglakreditasi>
+			</rdf:Description>
+		</rs:thing>
+
+		<rs:thing>
+			<rdf:Description rdf:about="http://rs.com/6">
+			<gn:name>Jakarta Utara</gn:name>
+			<gn:name>Tanjung Priok</gn:name>
+			<owl:hasValue>127686</owl:hasValue>
+			<vcard:hasUID>1000004</vcard:hasUID>
+			<vcard:organization-name>Santo Susuf</vcard:organization-name>
+			<rs:jenis>Rumah Sakit Bersalin</rs:jenis>
+			<vcard:hasAddress>Jl. Ganggeng Raya No.9</vcard:hasAddress>
+			</rdf:Description>
+		</rs:thing>
+
+		<rs:thing>
+			<rdf:Description rdf:about="http://rs.com/7">
+			<gn:name>Jakarta Utara</gn:name>
+			<gn:name>Tanjung Priok</gn:name>
+			<owl:hasValue>127686</owl:hasValue>
+			<vcard:hasUID>3175304</vcard:hasUID>
+			<vcard:organization-name>Hermina Podomoro</vcard:organization-name>
+			<rs:jenis>Rumah Sakit Ibu dan Anak</rs:jenis>
+			<vcard:hasAddress>Jl. Danau Agung 2 Blok E 3 No. 28-30</vcard:hasAddress>
+			<vcard:hasTelephone>021 6518720</vcard:hasTelephone>
+			<rs:akreditasi>B</rs:akreditasi>
+			<rs:pemilik>Swasta/Lainnya</rs:pemilik>
+			<rs:berlakuakreditasi>05 Dec 2021</rs:berlakuakreditasi>
+			<rs:tingkatakreditasi>Tingkat Madya</rs:tingkatakreditasi>
+			<rs:tglakreditasi>04-01-19</rs:tglakreditasi>
+			</rdf:Description>
+		</rs:thing>
+
+		<rs:thing>
+			<rdf:Description rdf:about="http://rs.com/8">
+			<gn:name>Jakarta Utara</gn:name>
+			<gn:name>Koja</gn:name>
+			<owl:hasValue>103390</owl:hasValue>
+			<vcard:hasUID>3175016</vcard:hasUID>
+			<vcard:organization-name>Koja</vcard:organization-name>
+			<rs:jenis>Rumah Sakit Umum Daerah</rs:jenis>
+			<vcard:hasAddress>Jl. Deli No. 4  Tanjung Priok</vcard:hasAddress>
+			<vcard:hasTelephone>021 4352401, 021 4372273</vcard:hasTelephone>
+			<foaf:weblog>www.rsudkoja.com</foaf:weblog>
+			<vcard:hasEmail>rsudkoja@ymail.com</vcard:hasEmail>
+			<vcard:hasTelephone>021 43838478</vcard:hasTelephone>
+			<rs:akreditasi>B</rs:akreditasi>
+			<rs:pemilik>Pemkot</rs:pemilik>
+			<rs:berlakuakreditasi>04 Jun 2020</rs:berlakuakreditasi>
+			<rs:tingkatakreditasi>Tingkat Paripurna</rs:tingkatakreditasi>
+			<rs:tglakreditasi>28-08-17</rs:tglakreditasi>
+			</rdf:Description>
+		</rs:thing>
+
+		<rs:thing>
+			<rdf:Description rdf:about="http://rs.com/9">
+			<gn:name>Jakarta Utara</gn:name>
+			<gn:name>Koja</gn:name>
+			<owl:hasValue>103390</owl:hasValue>
+			<vcard:hasUID>3175042</vcard:hasUID>
+			<vcard:organization-name>Pelabuhan Jakarta</vcard:organization-name>
+			<rs:jenis>Rumah Sakit Umum</rs:jenis>
+			<vcard:hasAddress>Jl. Kramat Jaya, Tanjung Priok</vcard:hasAddress>
+			<vcard:hasTelephone>021 4403551</vcard:hasTelephone>
+			<rs:akreditasi>C</rs:akreditasi>
+			<rs:pemilik>BUMN</rs:pemilik>
+			<rs:berlakuakreditasi>17 Dec 2021</rs:berlakuakreditasi>
+			<rs:tingkatakreditasi>Tingkat Paripurna</rs:tingkatakreditasi>
+			<rs:tglakreditasi>31-12-18</rs:tglakreditasi>
+			</rdf:Description>
+		</rs:thing>
+
+		<rs:thing>
+			<rdf:Description rdf:about="http://rs.com/10">
+			<gn:name>Jakarta Utara</gn:name>
+			<gn:name>Koja</gn:name>
+			<owl:hasValue>103390</owl:hasValue>
+			<vcard:hasUID>1000002</vcard:hasUID>
+			<vcard:organization-name>Mulyasari</vcard:organization-name>
+			<rs:jenis>Rumah Sakit Umum</rs:jenis>
+			<vcard:hasAddress>Jl. Raya Plumpang Semper No. 19  RT.006 / RW.015</vcard:hasAddress>
+			<vcard:hasTelephone>021 43935676</vcard:hasTelephone>
+			</rdf:Description>
+		</rs:thing>
+	</rs:resources>
+</rdf:RDF>
